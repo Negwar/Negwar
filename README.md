@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Antonio Lima</h1>
-<h3 align="center">Apaixonado por ciência de e analise de dados.</h3>
+<h3 align="center">Apaixonado por ciência e analise de dados.</h3>
 
 - 🔭 Atualmente estou trabalhando com RNA's [Rede Neural para reconhecimento de imagens](https://github.com/Negwar/RNA)
 
