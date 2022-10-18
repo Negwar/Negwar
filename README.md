@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, Eu sou Antonio Lima</h1>
-<h3 align="center">Apaixonado por ciência e analise de dados.</h3>
+<h3 align="center">Apaixonado por programação e analise de dados.</h3>
 
-- 🔭 Atualmente estou trabalhando com RNA's [Rede Neural para reconhecimento de imagens](https://github.com/Negwar/RNA)
+- 🔭 Atualmente estou desenvolvendo projetos usando **HTML, CSS e JS**
 
-- 🌱 Estou atualmente aprendendo criação de páginas web **HTML5 e CSS**
+- 🌱 Estou atualmente aprendendo criação de páginas web **HTML5, CSS e JS**
 
-- 💬 Me pergunte sobre **Python, Excel, C++**
+- 💬 Me pergunte sobre **Python, Excel, C++, HTML, CSS, JAVASCRIPT**
 
 - 📫 Você me acha através do email **antonio.wagner@mat.ci.ufpb.br**
 
