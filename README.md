@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou Antonio Lima</h1>
 <h3 align="center">Apaixonado por programação e analise de dados.</h3>
 
-- 🔭 Atualmente estou desenvolvendo projetos usando **HTML, CSS e JS**
+- 🔭 Atualmente estou desenvolvendo projetos usando **Python**
 
-- 🌱 Estou atualmente aprendendo criação de páginas web **HTML5, CSS e JS**
+- 🌱 Estou atualmente aprendendo sobre analise de dados utilizando **Power BI, Query BI e Python**
 
 - 💬 Me pergunte sobre **Python, Excel, C++, HTML, CSS, JAVASCRIPT**
 
