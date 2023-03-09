@@ -5,7 +5,7 @@
 
 - 🌱 Estou atualmente aprendendo sobre analise de dados utilizando **Power BI, Query BI e Python**
 
-- 💬 Me pergunte sobre **Python, Excel, C++, HTML, CSS, JAVASCRIPT**
+- 💬 Me pergunte sobre **Python, Power BI, Excel, C++, HTML, CSS, JAVASCRIPT**
 
 - 📫 Você me acha através do email **antonio.wagner@mat.ci.ufpb.br**
 
@@ -28,7 +28,8 @@
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Java Script" width="40" height="40"/> </a> 
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Java Script" width="40" height="40"/> </a>
+<a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> <img src="https://logosmarcas.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Logo-2020.jpg" alt="Power BI" width="40" height="40"/> </a>
 </p>
 
 <!---
